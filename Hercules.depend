@@ -8,3 +8,14 @@
 	<fstream>
 	<time.h>
 
+1461957140 source:c:\users\jamie\desktop\cb\hercules\hercules\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	<vector>
+	<cmath>
+	<fstream>
+	<time.h>
+	<numeric>
+	<algorithm>
+
